@@ -1,0 +1,2344 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"pathExists"
+			],
+			[
+				"reu",
+				"returnModule"
+			],
+			[
+				"fil",
+				"fileIdentifier"
+			],
+			[
+				"require",
+				"requirejs"
+			],
+			[
+				"module",
+				"moduleType (?)"
+			],
+			[
+				"view",
+				"view_modules"
+			],
+			[
+				"$pro",
+				"$programPKs"
+			],
+			[
+				"$progr",
+				"$programPK"
+			],
+			[
+				"mod",
+				"model"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"pan",
+				"panelCount"
+			],
+			[
+				"yep",
+				"yepNopeTests"
+			],
+			[
+				"$i",
+				"$is_forbidden"
+			],
+			[
+				"$fil",
+				"$fields"
+			],
+			[
+				"arrafi",
+				"array_filter"
+			],
+			[
+				"$fie",
+				"$field"
+			],
+			[
+				"$field",
+				"$field_value"
+			],
+			[
+				"arrfil",
+				"array_filter"
+			],
+			[
+				"arrfi",
+				"array_filter"
+			],
+			[
+				"$ke",
+				"$keys"
+			],
+			[
+				"pr",
+				"pos-r	position: relative;"
+			],
+			[
+				"na",
+				"navigate"
+			],
+			[
+				"ma",
+				"maw	max-width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"of",
+				"overflow"
+			],
+			[
+				"S",
+				"skipping"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"cam",
+				"campaignEndRules"
+			],
+			[
+				"Rul",
+				"RuleCollection"
+			],
+			[
+				"ca",
+				"campaignEndRules"
+			],
+			[
+				"to",
+				"togglePlaceholderValues"
+			],
+			[
+				"red",
+				"renderSelected"
+			],
+			[
+				"rulco",
+				"RuleCollection"
+			],
+			[
+				"is",
+				"isNotANumber"
+			],
+			[
+				"pres",
+				"pressedChar"
+			],
+			[
+				"pre",
+				"pressedKey"
+			],
+			[
+				"C",
+				"ChildInitialize"
+			],
+			[
+				"act",
+				"actions"
+			],
+			[
+				"call",
+				"callFunctionOf"
+			],
+			[
+				"Con",
+				"ConditionCollection"
+			],
+			[
+				"a",
+				"actions"
+			],
+			[
+				"ke",
+				"keyProp"
+			],
+			[
+				"bren",
+				"brennan"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"ha",
+				"hasProperty"
+			],
+			[
+				"ob",
+				"objectProperty"
+			],
+			[
+				"get",
+				"getPropertyBinding"
+			],
+			[
+				"rul",
+				"ruleActions"
+			],
+			[
+				"c",
+				"conditions"
+			],
+			[
+				"prop",
+				"propertyName"
+			],
+			[
+				"co",
+				"collection"
+			],
+			[
+				"con",
+				"conditions"
+			],
+			[
+				"va",
+				"valueChanged"
+			],
+			[
+				"re",
+				"resources"
+			],
+			[
+				"sa",
+				"sayToasty"
+			],
+			[
+				"time",
+				"timeout	setTimeout function"
+			],
+			[
+				"tim",
+				"timeToToast"
+			],
+			[
+				"deful",
+				"default"
+			],
+			[
+				"r",
+				"ruleType"
+			],
+			[
+				"met",
+				"metricPK"
+			],
+			[
+				"click",
+				"clickHandler"
+			],
+			[
+				"add",
+				"addRuleView"
+			],
+			[
+				"$",
+				"$rules"
+			],
+			[
+				"me",
+				"metricPK"
+			],
+			[
+				"set",
+				"setupDatepickers"
+			],
+			[
+				"upda",
+				"updateTitle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "git-functions.sh",
+			"settings":
+			{
+				"buffer_size": 192,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "difference-stats.sh",
+			"settings":
+			{
+				"buffer_size": 220,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "script-aliases.sh",
+			"settings":
+			{
+				"buffer_size": 83,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Build Systems/node.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"theme",
+				"Themr: List themes"
+			],
+			[
+				"sche",
+				"Schemr: List all schemes"
+			],
+			[
+				"surr",
+				"Surround: surround selection"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"rena",
+				"ANF: Rename File"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"surusel",
+				"Surround: surround selection"
+			],
+			[
+				"paclin",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"ali",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"alig",
+				"AlignTab"
+			],
+			[
+				"alio",
+				"AlignTab: Table Mode"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"synlog",
+				"Set Syntax: LaTeX Log"
+			],
+			[
+				"synbas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"bas",
+				"Side Bar: Enable Syncing"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"ed",
+				"Project: Edit"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"alin",
+				"AlignTab"
+			],
+			[
+				"align",
+				"AlignTab"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packli",
+				"Package Control: List Packages"
+			],
+			[
+				"log",
+				"Git: Quick Log Current File"
+			],
+			[
+				"show",
+				"Git: Show"
+			],
+			[
+				"schem",
+				"Schemr: List all schemes"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"sho",
+				"Git: Show"
+			],
+			[
+				"edi",
+				"Project: Edit"
+			],
+			[
+				"tomap",
+				"View: Toggle Minimap"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"git sho",
+				"Git: Show"
+			],
+			[
+				"gst",
+				"Git: Status"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"keys",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"camel",
+				"Convert Case: camelCase"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"sh",
+				"Git: Show"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ch",
+				"Git: Checkout Commit"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"di",
+				"Git: Diff Current File"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"sublint",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"subl",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"gstat",
+				"Git: Status"
+			],
+			[
+				"xd",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"xde",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"stop",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"watc",
+				"Xdebug: Set Watch Expression"
+			],
+			[
+				"xrun",
+				"Xdebug: Breakpoint - Run"
+			],
+			[
+				"start",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"stopde",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"star",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdeb",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"xdebug",
+				"Xdebug: Restart Session"
+			],
+			[
+				"addb",
+				"Xdebug: Add/Remove Breakpoint"
+			],
+			[
+				"xder",
+				"Xdebug: Breakpoint - Run"
+			],
+			[
+				"sto",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"addbr",
+				"Xdebug: Add/Remove Breakpoint"
+			],
+			[
+				"addbre",
+				"Xdebug: Add/Remove Breakpoint"
+			],
+			[
+				"break",
+				"Xdebug: Clear All Breakpoints"
+			],
+			[
+				"xdebre",
+				"Xdebug: Breakpoint - Detach"
+			],
+			[
+				"statd",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"step",
+				"Xdebug: Breakpoint - Step Into"
+			],
+			[
+				"xdcon",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"xdebs",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdadd",
+				"Xdebug: Add/Remove Breakpoint"
+			],
+			[
+				"came",
+				"Convert Case: camelCase"
+			],
+			[
+				"snak",
+				"Convert Case: snake_case"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"gsta",
+				"Git: Status"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add ",
+				"Git: Add Current File"
+			],
+			[
+				"term",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"mad",
+				"Set Syntax: Markdown"
+			],
+			[
+				"defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"minma",
+				"View: Toggle Minimap"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"copy",
+				"ANF: Copy Current File"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"st",
+				"Git: Status"
+			],
+			[
+				"gstt",
+				"Git: Status"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"fet",
+				"Git: Fetch"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"statu",
+				"Git: Stash Include Untracked"
+			],
+			[
+				"contabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"titl",
+				"Convert Case: Title Case"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"check",
+				"Git: Checkout"
+			],
+			[
+				"balm",
+				"Git: Blame"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"blme",
+				"Git: Blame"
+			],
+			[
+				"glo",
+				"Git: Quick Log Current File"
+			],
+			[
+				"gsts",
+				"Git: Stash"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"gist",
+				"Git: Status"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"print('hello')",
+			"print << 'hello'",
+			"print 'hello'",
+			"printf \"hello\"",
+			"echo \"hello\";",
+			"echo \"hello\"",
+			"print \"hello\"",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/chris.marlow/scripts"
+	],
+	"file_history":
+	[
+		"/Users/chris.marlow/Library/Application Support/Sublime Text 3/Packages/User/SearchInProject.sublime-settings",
+		"/dev-git/platform-a/src/resources/js/dom/component.js",
+		"/dev-git/platform-a/src/composer.json",
+		"/dev-git/platform-a/src/resources/js/config/common.js",
+		"/Users/chris.marlow/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/dev-git/platform-a/src/system/application/language/desktop/no_view/apps/results_driver_admin/en-US/results_driver_admin_en-US_lang.php",
+		"/dev-git/platform-a/build/grunt/aliases.js",
+		"/dev-git/platform-a/src/system/application/libraries/data/DataList.php",
+		"/dev-git/platform-a/src/system/application/libraries/API_Language.php",
+		"/dev-git/platform-a/src/system/application/language/desktop/no_view/apps/results_driver_admin/pt-BR/results_driver_admin_pt-BR_lang.php",
+		"/dev-git/platform-a/src/system/scaffolding/views/edit.php",
+		"/dev-git/platform-a/statics/library/ckeditor/skins/moono/v_ec2b35e8_dialog_ie.css",
+		"/dev-git/platform-a/statics/desktop/styles/engagement_dashboard.css",
+		"/dev-git/platform-a/build/grunt/exec.js",
+		"/dev-git/platform-a/src/resources/fonts/FranklinGothic/FranklinGothic-Cd-webfont.svg",
+		"/dev-git/platform-a/src/resources/config.rb",
+		"/dev-git/platform-a/src/psr/PFA/DTO/Recognition.php",
+		"/dev-git/platform-a/build/requirejs_builder.js",
+		"/dev-git/platform-a/src/resources/js/models/recognition_model.js",
+		"/dev-git/platform-a/statics/mobile/styles/recognize.css",
+		"/dev-git/platform-a/src/resources/js/helpers/view.js",
+		"/dev-git/platform-a/build.log",
+		"/dev-git/platform-a/src/system/application/config/config_overide.php",
+		"/dev-git/platform-a/Gruntfile.js",
+		"/dev-git/platform-a/build/grunt/cssUrlRewrite.js",
+		"/dev-git/platform-a/package.json",
+		"/dev-git/platform-a/build/grunt/copy.js",
+		"/dev-git/platform-a/PFA.sublime-project",
+		"/dev-git/platform-a/src/system/application/views/desktop/admin/viewlets/require_js_viewlet.php",
+		"/dev-git/platform-a/src/resources/desktop/scripts/plugins/jquery.userselect.js",
+		"/dev-git/platform-a/build/grunt/compass.js",
+		"/dev-git/platform-a/src/composer.lock",
+		"/dev-git/platform-a/build/php_tasks/js_convert_all.php",
+		"/dev-git/platform-a/src/system/application/models/modules/news_feed_model.php",
+		"/dev-git/platform-a/src/psr/PFA/Service/Vendor/Product.php",
+		"/dev-git/platform-a/build/grunt/concat.js",
+		"/dev-git/platform-a/src/system/application/config/common/config_common.php",
+		"/dev-git/platform-a/build/fingerprint.js",
+		"/dev-git/platform-a/compile_sass.bat",
+		"/dev-git/platform-a/src/system/application/libraries/saml/docs/simplesamlphp-artifact-sp.txt",
+		"/dev-git/platform-a/src/system/application/helpers/stale_approvals_helper.php",
+		"/dev-git/platform-a/src/resources/sass/components/_tabs.scss",
+		"/dev-git/platform-a/src/resources/js/views/desktop/pattern_library/tabs_view.js",
+		"/dev-git/platform-a/src/system/application/libraries/taxable_benefit.php",
+		"/dev-git/platform-a/src/system/application/tests/ciunit/testAssertions.php",
+		"/dev-git/platform-a/UnitTesting.xml",
+		"/dev-git/platform-a/src/system/application/libraries/Runtime_error_handler.php",
+		"/dev-git/platform-a/src/resources/js/views/desktop/catalog/tickets/confirmation_view.js",
+		"/dev-git/refactor-differences.log",
+		"/dev-git/platform-a/src/system/application/views/desktop/w3c/p3p.xml",
+		"/dev-git/platform-a/src/system/phpunit.xml",
+		"/dev-git/platform-a/src/system/application/libraries/owasp/lib/apache-log4php/trunk/src/test/php/phpunit.xml",
+		"/dev-git/platform-a/src/phpunit_coverage.php",
+		"/dev-git/platform-a/phpunit.xml.dist",
+		"/dev-git/platform-a/src/system/helpers/path_helper.php",
+		"/dev-git/platform-a/src/system/application/controllers/admin/analytics/base_analytics.php",
+		"/dev-git/platform-a/src/system/application/views/desktop/admin/analytics/analytics_view.php",
+		"/dev-git/platform-a/src/resources/library/base64/base64.js",
+		"/dev-git/platform-a/src/resources/desktop/scripts/social_networks.js",
+		"/www/test.php",
+		"/dev-git/platform-a/src/resources/desktop/scripts/analytics/base_analytics.js",
+		"/Users/chris.marlow/Movies/Dawn.of.the.Planet.of.the.Apes.2014.HDRip.XviD-EVO/Subs/Forced.srt",
+		"/dev-git/platform-a/src/system/application/controllers/admin/reports/basic_member_summary.php",
+		"/dev-git/platform-a/src/cron/Rb_btree.php",
+		"/dev-git/platform-a/src/resources/profile.png",
+		"/dev-git/platform-a/src/resources/library/blockui/jquery.blockUI.js",
+		"/dev-git/platform-a/build/php_tasks/build_locale_list.php",
+		"/dev-git/platform-a/src/system/plugins/dompdf/www/test/css_float.html",
+		"/dev-git/platform-a/src/resources/swagger-ui/lib/handlebars-1.0.0.js",
+		"/dev-git/platform-a/src/resources/sass/mobile/styles/helpers/_achievers_reset.scss",
+		"/dev-git/platform-a/src/resources/sass/foundations/_achievers_reset.scss",
+		"/dev-git/platform-a/src/resources/sass/desktop/styles/platform_components/_helper_classes.scss",
+		"/dev-git/platform-a/src/resources/sass/desktop/styles/print.scss",
+		"/dev-git/platform-a/src/resources/sass/desktop/styles/global_admin.scss",
+		"/dev-git/platform-a/src/resources/library/handlebars/handlebars.js",
+		"/dev-git/platform-a/src/resources/desktop/scripts/jquery/tiny_mce/plugins/paste/editor_plugin_src.js",
+		"/dev-git/platform-a/src/system/application/libraries/owasp/lib/htmlpurifier/HTMLPurifier/ChildDef/StrictBlockquote.php",
+		"/dev-git/platform-a/src/system/application/views/desktop/viewlets/analytics_google_tags_viewlet.php",
+		"/dev-git/platform-a/src/system/application/views/desktop/viewlets/analytics_viewlet.php",
+		"/dev-git/platform-a/src/resources/sass/desktop/styles/analytics.scss",
+		"/dev-git/platform-a/.vagrant/machines/bohr-v2.0/virtualbox/action_set_name",
+		"/dev-git/platform-a/src/system/plugins/dompdf/include/block_positioner.cls.php",
+		"/dev-git/platform-a/src/resources/js/views/desktop/admin/comcenter/comcenter_compose_view.js",
+		"/dev-git/platform-a/src/system/application/views/desktop/admin/comcenter/comcenter_compose_view.php",
+		"/dev-git/platform-a/url-rewrite.log",
+		"/dev-git/platform-a/debug-test.js",
+		"/dev-git/platform-a/.debug-test.js.swp",
+		"/dev-git/platform-a/src/resources/sass/components/_dialog.scss",
+		"/dev-git/platform-a/src/resources/sass/desktop/scripts/jquery/tiny_mce/themes/advanced/skins/default/dialog.scss",
+		"/dev-git/platform-a/node_modules/grunt-css-url-rewrite/tasks/lib/encode.js",
+		"/dev-git/platform-a/differences-refactor-bohr.txt",
+		"/dev-git/platform-a/build/grunt/requirejs.js",
+		"/dev-git/platform-a/src/system/application/components/internal_api/communication_center_component.php",
+		"/dev-git/platform-a/src/system/application/models/communication_center_model.php",
+		"/dev-git/platform-a/src/system/application/core/config/config_overide.php",
+		"/dev-git/platform-a/src/resources/sass/desktop/styles/jquery/jquery.simpledialog.scss",
+		"/dev-git/platform-a/src/resources/sass/mobile/styles/components/_dialog.scss",
+		"/dev-git/platform-a/src/resources/sass/mobile/styles/engagement_dialog.scss",
+		"/dev-git/platform-a/src/resources/templates/desktop/results_driver/campaign_edit/rule_dialog/rule_dialog_campaign_end_rules.handlebars",
+		"/dev-git/platform-a/src/system/application/libraries/saml/www/resources/icons/experience/gtk-dialog-authentication.svg.gz",
+		"/dev-git/platform-a/src/resources/library/ckeditor/plugins/dialog/dialogDefinition.js",
+		"/dev-git/platform-a/src/resources/js/dom/components/dialog.js",
+		"/dev-git/platform-a/src/psr/PFA/Base/DbInterface.php",
+		"/dev-git/platform-a/src/psr/PFA/Base/DTO.php",
+		"/dev-git/platform-a/etc/build_scripts/repo/pfa/disk_space.sh",
+		"/dev-git/platform-a/src/system/application/config/mapping/resource_fingerprint.php",
+		"/dev-git/platform-a/differences.txt",
+		"/dev-git/platform-a/build/grunt/uglify.js",
+		"/dev-git/platform-a/build/locale_list.js",
+		"/dev-git/platform-a/build/php_tasks/locale_list.js",
+		"/dev-git/platform-a/src/resources/js/dom/components/loading_overlay.js",
+		"/dev-git/platform-a/src/resources/js/views/desktop/module/leaderboard/leaderboard_view.js",
+		"/dev-git/platform-a/src/resources/js/views/desktop/module/leaderboard/leaderboards_view.js",
+		"/dev-git/platform-a/src/system/application/views/desktop/module/leaderboard/leaderboard_view.php",
+		"/dev-git/platform-a/build/grunt/cachebuster.js",
+		"/dev-git/platform-a/src/system/application/views/desktop/reset_security_questions_view.php",
+		"/dev-git/platform-a/src/system/application/views/desktop/module/static_content/static_content_edit.php",
+		"/dev-git/platform-a/src/resources/js/dom/components/statistics_coloured_bar.js",
+		"/dev-git/platform-a/src/system/application/controllers/module/static_content.php",
+		"/dev-git/platform-a/src/resources/js/dom/components/statistics_bar.js",
+		"/dev-git/platform-a/src/system/application/libraries/soapclient_timeout.php",
+		"/dev-git/platform-a/src/system/application/core/libraries/job/scripts/update_notification_categories.php",
+		"/dev-git/platform-a/src/resources/js/config/common_mobile.js",
+		"/dev-git/platform-a/src/core/scripts/number_format.js",
+		"/dev-git/platform-a/src/resources/library/numeraljs/numeral.js",
+		"/dev-git/platform-a/src/core/scripts/global.js",
+		"/dev-git/platform-a/src/system/application/tests/models/ModelsAllTests.php",
+		"/dev-git/platform-a/src/system/application/tests/models/_testTagManagement.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 142.0,
+		"where_history":
+		[
+			"*.php",
+			"*.js",
+			"*",
+			"*.css",
+			"",
+			"*.js",
+			"*",
+			"*.php",
+			"*.js",
+			"",
+			"*.scss",
+			"",
+			"*.js",
+			"*.php",
+			"*.js*",
+			"",
+			"*.php",
+			"",
+			"*.*css",
+			"*.js",
+			"*",
+			"*.js",
+			"",
+			"*.js",
+			"*.php",
+			"*.js*",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.js",
+			"",
+			"*.php",
+			"*.js",
+			"*.php",
+			"",
+			"*.php",
+			"*.js",
+			"*.scss",
+			"/src/system/application/views/desktop/viewlets/grid_views/",
+			"/src/system/application/views/desktop/viewlets/grid_views/**/*.php",
+			"/src/system/application/views/desktop/viewlets/grid_views/*.php",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"<open files>",
+			"*.php",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"*.js",
+			"",
+			"*.php",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.handlebars",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.phph",
+			"*.handlebars",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.handlebars",
+			"*.scss",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"",
+			"*.php",
+			"*.scss",
+			"",
+			"*.php",
+			"views/*/*.php",
+			"*.php",
+			"",
+			"*.php",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.scss, *.js",
+			"*.scss",
+			"*.php",
+			"*.js",
+			"",
+			"*.php",
+			"",
+			"*.js,*.json",
+			"*.js",
+			"*.php, *.handlebars",
+			"*.scss",
+			"*.php, *.handlebars",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.js",
+			"*.scss",
+			"*.php, *.handlebars",
+			"*.scss",
+			"*.php, *.handlebars",
+			"*.scss",
+			"*.js",
+			"*.php, *.handlebars",
+			"*.php",
+			"*.scss",
+			"*.js",
+			"*.scss"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"something",
+			"folders-with-changes",
+			"`",
+			"(",
+			"createHash",
+			"full_path",
+			"jsLang",
+			"grep",
+			"lang",
+			"campaign_list_campaign_type_active_plural",
+			"PFA.get",
+			"localhost.achievers.com/",
+			"localhost.achievers.com/\";",
+			".localhost.achievers.com/\";",
+			" ,",
+			"	,",
+			",",
+			"Not able to load view",
+			"views",
+			":views",
+			"js-build-",
+			"images/close.png",
+			",",
+			"\"",
+			"cssUrlRewrite",
+			"fingerprint",
+			"./fingerprint",
+			"MARLOW",
+			"false",
+			"config/common.js",
+			"config/common.js ",
+			")",
+			"6",
+			"(",
+			"return",
+			"buildJSLang",
+			"base_dir",
+			"platf",
+			"$pc",
+			"createHash",
+			".",
+			"{",
+			"copy",
+			"=",
+			"except",
+			"set_exception_handler",
+			"false",
+			"Only in",
+			"p2p_budget_analytics.j",
+			"subscription.js",
+			".DS_Store",
+			"DS_Store",
+			"Only",
+			"run_in_local",
+			"object_property_is_set",
+			"font",
+			"first",
+			"base64(En|De)code",
+			"startLoader",
+			".block(",
+			"block",
+			"blockArea",
+			"block",
+			"define",
+			"require",
+			"blockUI",
+			".blockUI",
+			"blockUI",
+			"icons.*[0-9a-fA-f]{6}",
+			"icons/[0-9a-fA-f]{6}",
+			"\\/icons\\/[0-9a-fA-f]{6}\\/",
+			"/icons/",
+			"/views/**/*.*",
+			"src/resources/",
+			"encodin",
+			"mce",
+			".js",
+			"editor",
+			"png",
+			"/dialog.css",
+			"dialog.css",
+			"close",
+			"moono/images/close.png",
+			"png",
+			"close.png",
+			"moono/images/close.png",
+			"moono/images/close.png ",
+			"js-build-desktop",
+			"false",
+			"true",
+			"false",
+			"zh-TW",
+			"zh-TW\nzh-TW",
+			"NL",
+			"-TW",
+			"-",
+			"grunt.file.readJSON(concat_file_path)",
+			"number_format",
+			"RA",
+			"ctrl+shift+",
+			"ctrl+shift",
+			"shift+ctrl",
+			"reind",
+			"is_system",
+			"data-partial",
+			"view_hidden(",
+			"viewlets/collector_number_viewlet",
+			"collector_number_viewlet",
+			"run_in_local",
+			"(",
+			"hashFilename",
+			"path",
+			"fingerprint",
+			"cach",
+			"profileBackground",
+			"login-banner.png",
+			"path",
+			"<?",
+			"point_text_x_points",
+			"/award/",
+			"point_text_point_balance_no_colon",
+			"point_text_point_balance",
+			"point_text_point",
+			"status_bar_view",
+			"status_bar_view_orders",
+			"statusBarUserImageHeader",
+			"render_sidebar",
+			"side"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "git-functions.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								187,
+								187
+							]
+						],
+						"settings":
+						{
+							"sorttabs_lastactivated": 1421097986.88,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"vi",
+									"dd",
+									"mode_internal_normal",
+									null
+								],
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "difference-stats.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"sorttabs_lastactivated": 1421096502.21,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"vi",
+									"x",
+									"mode_normal",
+									null
+								],
+								"sequence": "",
+								"xpos": 11
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "script-aliases.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 83,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"sorttabs_lastactivated": 1421096502.13,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"native",
+									[
+										"sequence",
+										{
+											"commands":
+											[
+												[
+													"insert",
+													{
+														"characters": "lias"
+													}
+												],
+												[
+													"move_to",
+													{
+														"to": "bol"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "a"
+													}
+												],
+												[
+													"move_to",
+													{
+														"to": "eol"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": " ds="
+													}
+												]
+											]
+										}
+									],
+									null,
+									null
+								],
+								"sequence": "",
+								"xpos": 37
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 477.0
+	},
+	"output.find_results":
+	{
+		"height": 716.0
+	},
+	"output.git-checkout":
+	{
+		"height": 162.0
+	},
+	"output.git-commit":
+	{
+		"height": 144.0
+	},
+	"output.git-fetch":
+	{
+		"height": 150.0
+	},
+	"output.git-pull":
+	{
+		"height": 168.0
+	},
+	"output.git-push":
+	{
+		"height": 144.0
+	},
+	"output.vi_out":
+	{
+		"height": 289.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"project": "scripts.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"gr",
+				"Gruntfile.js"
+			],
+			[
+				"compone",
+				"src/resources/js/dom/component.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"alias",
+				"build/grunt/aliases.js"
+			],
+			[
+				"confove",
+				"src/system/application/config/config_overide.php"
+			],
+			[
+				"conover",
+				"src/system/application/config/config_overide.php"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"confover",
+				"src/system/application/config/config_overide.php"
+			],
+			[
+				"compas",
+				"build/grunt/compass.js"
+			],
+			[
+				"js_convert_all.php",
+				"build/php_tasks/js_convert_all.php"
+			],
+			[
+				"/grunt/exec.js",
+				"build/grunt/exec.js"
+			],
+			[
+				"models/modules/news_feed_model",
+				"src/system/application/models/modules/news_feed_model.php"
+			],
+			[
+				"finger",
+				"build/fingerprint.js"
+			],
+			[
+				"compass",
+				"build/grunt/compass.js"
+			],
+			[
+				"cop",
+				"build/grunt/copy.js"
+			],
+			[
+				"tabsscss",
+				"src/resources/sass/components/_tabs.scss"
+			],
+			[
+				"runtime_error_handler",
+				"src/system/application/libraries/Runtime_error_handler.php"
+			],
+			[
+				"confiver",
+				"src/system/application/config/config_overide.php"
+			],
+			[
+				"configcomm",
+				"src/system/application/config/common/config_common.php"
+			],
+			[
+				"phpun",
+				"src/system/phpunit.xml"
+			],
+			[
+				"p3p",
+				"src/system/application/views/desktop/w3c/p3p.xml"
+			],
+			[
+				"base64",
+				"src/resources/library/base64/base64.js"
+			],
+			[
+				"base6",
+				"src/resources/library/base64/base64.js"
+			],
+			[
+				"admin/analytics/analytics_view",
+				"src/system/application/views/desktop/admin/analytics/analytics_view.php"
+			],
+			[
+				"blockui",
+				"src/resources/library/blockui/jquery.blockUI.js"
+			],
+			[
+				"blockuu",
+				"src/resources/library/blockui/jquery.blockUI.js"
+			],
+			[
+				"viewdeskanalyti",
+				"src/system/application/views/desktop/admin/analytics/analytics_view.php"
+			],
+			[
+				"gruntfi",
+				"Gruntfile.js"
+			],
+			[
+				"commcentcomposejs",
+				"src/resources/js/views/desktop/admin/comcenter/comcenter_compose_view.js"
+			],
+			[
+				"commccompose",
+				"src/system/application/views/desktop/admin/comcenter/comcenter_compose_view.php"
+			],
+			[
+				"dialog.css",
+				"src/resources/sass/desktop/scripts/jquery/tiny_mce/themes/advanced/skins/default/dialog.scss"
+			],
+			[
+				"dialoie",
+				"src/resources/templates/desktop/results_driver/campaign_edit/rule_dialog/rule_dialog_campaign_end_rules.handlebars"
+			],
+			[
+				"dialoscss",
+				"src/resources/sass/components/_dialog.scss"
+			],
+			[
+				"local",
+				"build/locale_list.js"
+			],
+			[
+				"ugli",
+				"build/grunt/uglify.js"
+			],
+			[
+				"con",
+				"build/grunt/concat.js"
+			],
+			[
+				"views/desktop/module/leaderboard/leaderboard_view",
+				"src/resources/js/views/desktop/module/leaderboard/leaderboard_view.js"
+			],
+			[
+				"copy",
+				"build/grunt/copy.js"
+			],
+			[
+				"rquire",
+				"build/grunt/requirejs.js"
+			],
+			[
+				"aliases",
+				"build/grunt/aliases.js"
+			],
+			[
+				"untti",
+				"UnitTesting.xml"
+			],
+			[
+				"src/resources/js/config/common_mobile.js",
+				"src/resources/js/config/common_mobile.js"
+			],
+			[
+				"src/resources/js/config/common",
+				"src/resources/js/config/common.js"
+			],
+			[
+				"numer",
+				"src/resources/library/numeraljs/numeral.js"
+			],
+			[
+				"numb",
+				"src/core/scripts/number_format.js"
+			],
+			[
+				"_testtagmanagement.php",
+				"src/system/application/tests/models/_testTagManagement.php"
+			],
+			[
+				"src/system/application/tests/models",
+				"src/system/application/tests/models/ModelsAllTests.php"
+			],
+			[
+				"gruntal",
+				"build/grunt/aliases.js"
+			],
+			[
+				"resources/library/json2/json2",
+				"src/resources/library/json2/json2.js"
+			],
+			[
+				"depen",
+				"src/resources/js/config/dependency_manager.js"
+			],
+			[
+				"baseana",
+				"src/resources/desktop/scripts/analytics/base_analytics.js"
+			],
+			[
+				"comcenter/comcenter_create_new_view",
+				"src/resources/js/views/desktop/admin/comcenter/comcenter_create_new_view.js"
+			],
+			[
+				"jqueryautocomp",
+				"src/resources/desktop/scripts/jquery/jquery.autocomplete.min.js"
+			],
+			[
+				"bgifram",
+				"src/core/scripts/jquery.bgiframe.min.js"
+			],
+			[
+				"jquauto.js",
+				"src/resources/desktop/scripts/jquery/jquery.autocomplete.min.js"
+			],
+			[
+				"fingerp",
+				"build/fingerprint.js"
+			],
+			[
+				"i18",
+				"src/system/application/helpers/i18n_helper.php"
+			],
+			[
+				"contrmodule/award",
+				"src/system/application/controllers/module/award.php"
+			],
+			[
+				"routes",
+				"src/system/application/config/routes.php"
+			],
+			[
+				"left_panel_viewlet",
+				"src/system/application/views/desktop/viewlets/left_panel_viewlet.php"
+			],
+			[
+				"sidebar_menu",
+				"src/system/application/libraries/sidebar_menu.php"
+			],
+			[
+				"viewlets/manager_sidebar_wrapper_viewlet",
+				"src/system/application/views/desktop/viewlets/manager_sidebar_wrapper_viewlet.php"
+			],
+			[
+				"viewlets/status_bar_view",
+				"src/system/application/views/desktop/viewlets/status_bar_view.php"
+			],
+			[
+				"deftemp",
+				"src/system/application/views/desktop/default_template.php"
+			],
+			[
+				"af_ma",
+				"src/system/application/core/controllers/program_sections/hris_file_management.php"
+			],
+			[
+				"buildbm",
+				"/dev-git/platform-a/build/buildModuleList.js"
+			],
+			[
+				"comp",
+				"build/grunt/compass.js"
+			],
+			[
+				"comm",
+				"src/resources/js/config/common.js"
+			],
+			[
+				"main.js",
+				"src/resources/js/views/mobile/main.js"
+			],
+			[
+				"main",
+				"src/resources/js/views/desktop/main.js"
+			],
+			[
+				"views/mobile/activate_view",
+				"src/resources/js/views/mobile/activate_view.js"
+			],
+			[
+				"requi",
+				"build/grunt/requirejs.js"
+			],
+			[
+				"ali",
+				"build/grunt/aliases.js"
+			],
+			[
+				"buimo",
+				"build/buildModuleList.js"
+			],
+			[
+				"perm",
+				"src/psr/PFA/Service/Permission.php"
+			],
+			[
+				"resources/js/config/common",
+				"src/resources/js/config/common.js"
+			],
+			[
+				"requ",
+				"build/requirejs_builder.js"
+			],
+			[
+				"common_mobile",
+				"src/resources/js/config/common_mobile.js"
+			],
+			[
+				"exec",
+				"build/grunt/exec.js"
+			],
+			[
+				"conc",
+				"build/grunt/concat.js"
+			],
+			[
+				"pattel",
+				"src/resources/desktop/scripts/pattern_library.js"
+			],
+			[
+				"gruntf",
+				"Gruntfile.js"
+			],
+			[
+				"apprvie",
+				"src/system/application/views/desktop/admin/approvals/approval_center_view.php"
+			],
+			[
+				"appr",
+				"src/resources/desktop/scripts/approval_center.js"
+			],
+			[
+				"cac",
+				"build/grunt/cachebuster.js"
+			],
+			[
+				"2014-09-02-03-kp.sql",
+				"sql/alter/system/2014-09-02-03-kp.sql"
+			],
+			[
+				"patterns/all_patterns",
+				"src/system/application/core/views/patterns/all_patterns.php"
+			],
+			[
+				"corepatth",
+				"src/system/application/core/helpers/patterns/core_patterns_helper.php"
+			],
+			[
+				"concat",
+				"src/system/application/config/mapping/concat_resource.json"
+			],
+			[
+				"globajs",
+				"src/core/scripts/global.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"approvals/p2p_approvals.php",
+				"src/system/application/controllers/admin/approvals/p2p_approvals.php"
+			],
+			[
+				"imaman",
+				"src/resources/js/dom/components/modal/file_manager/image_manager.js"
+			],
+			[
+				"approval_center.scss",
+				"src/resources/sass/desktop/styles/approval_center.scss"
+			],
+			[
+				"composer",
+				"src/composer.json"
+			],
+			[
+				"helperjs",
+				"src/resources/js/library_extend/handlebars/extensions/handlebars-helpers.js"
+			],
+			[
+				"viewappli",
+				"src/system/application/views/desktop/admin/approvals/approvals_approval_list.php"
+			],
+			[
+				"approcent",
+				"src/resources/desktop/scripts/approval_center.js"
+			],
+			[
+				"mobile/styles/viewstack.scss",
+				"src/resources/sass/mobile/styles/viewstack.scss"
+			],
+			[
+				"_dialog",
+				"src/resources/sass/mobile/styles/components/_dialog.scss"
+			],
+			[
+				"_dialog.scss",
+				"src/resources/sass/mobile/styles/components/_dialog.scss"
+			],
+			[
+				"dtophp",
+				"src/psr/PFA/Base/DTO.php"
+			],
+			[
+				"dtoprog",
+				"src/psr/PFA/DTO/Program.php"
+			],
+			[
+				"dto/",
+				"src/psr/PFA/DTO/Account.php"
+			],
+			[
+				"classma",
+				"src/vendor/composer/autoload_classmap.php"
+			],
+			[
+				"comop",
+				"src/composer.json"
+			],
+			[
+				"recog",
+				"src/psr/PFA/DTO/Recognition.php"
+			],
+			[
+				"src/system/application/config/api/routes_v2_test.php",
+				"src/system/application/config/api/routes_v2_test.php"
+			],
+			[
+				"patlibisl",
+				"src/system/application/views/desktop/pattern_library/island.php"
+			],
+			[
+				"gruntd",
+				"src/resources/templates/desktop/user_and_group_search/returned_users_template.handlebars"
+			],
+			[
+				"helperscss",
+				"src/resources/sass/desktop/styles/platform_components/_helper_classes.scss"
+			],
+			[
+				"texscss",
+				"src/resources/sass/desktop/styles/platform_components/_text_style.scss"
+			],
+			[
+				"hoppl",
+				"src/system/application/views/desktop/pattern_library/hopper_landing_page.php"
+			],
+			[
+				"hoppland",
+				"src/system/application/views/desktop/pattern_library/hopper_landing_page.php"
+			],
+			[
+				"pattlibhoplan",
+				"src/system/application/views/desktop/pattern_library/hopper_landing_page.php"
+			],
+			[
+				"landin",
+				"src/system/application/views/desktop/pattern_library/hopper_landing_page.php"
+			],
+			[
+				"system_model",
+				"src/system/application/models/system_model.php"
+			],
+			[
+				"systemmo",
+				"src/system/application/models/system_model.php"
+			],
+			[
+				"programs/list_programs",
+				"src/system/application/core/views/programs/list_programs.php"
+			],
+			[
+				"conprograms",
+				"src/system/application/core/controllers/programs.php"
+			],
+			[
+				"coreroutes",
+				"src/system/application/core/config/routes.php"
+			],
+			[
+				"pfalan",
+				"src/resources/js/library_extend/momentjs/lang/pfaLang.js"
+			],
+			[
+				"pfa/service/programtoc",
+				"src/psr/PFA/Service/ProgramToc.php"
+			],
+			[
+				"libraries/base_spl_factory.php",
+				"src/system/application/libraries/Base_SPL_Factory.php"
+			],
+			[
+				"achiejs",
+				"src/system/application/views/shared/viewlets/achievers_js_config.php"
+			],
+			[
+				"base64/base64.js",
+				"src/resources/library/base64/base64.js"
+			],
+			[
+				"jquery-migrate",
+				"src/resources/library/jquery/jquery-migrate.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"pfa",
+				"/dev-git/platform-a/PFA.sublime-project"
+			],
+			[
+				"not",
+				"~/Dropbox (Personal)/Sublime Projects/Notes.sublime-project"
+			],
+			[
+				"notes",
+				"~/Dropbox (Personal)/Sublime Projects/Notes.sublime-project"
+			],
+			[
+				"note",
+				"~/Dropbox (Personal)/Sublime Projects/Notes.sublime-project"
+			],
+			[
+				"ta",
+				"/www/fragile-to-agile/fragile-to-agile.sublime-project"
+			],
+			[
+				"no",
+				"~/Dropbox (Personal)/Sublime Projects/Notes.sublime-project"
+			],
+			[
+				"nor",
+				"~/Dropbox (Personal)/Sublime Projects/Notes.sublime-project"
+			],
+			[
+				"",
+				"/dev-git/platform-a/PFA.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"dispal",
+				"display"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"number_format",
+				"number_format"
+			],
+			[
+				"view_hidden",
+				"view_hidden"
+			],
+			[
+				"get loaded lan",
+				"get_loaded_langs"
+			],
+			[
+				"render_sidebar",
+				"render_sidebar"
+			],
+			[
+				"rendernewfeeve",
+				"render_news_feed_event_image"
+			],
+			[
+				"nomin",
+				"nominate"
+			],
+			[
+				"get_all_programs_in_platform",
+				"get_all_programs_in_platform"
+			],
+			[
+				"ecjson",
+				"echo_json"
+			],
+			[
+				"set_program_version",
+				"set_program_version"
+			],
+			[
+				"currprolo",
+				"Current_program_loader"
+			],
+			[
+				"Current_program_loader",
+				"Current_program_loader"
+			],
+			[
+				"generate_xsrf_token_value",
+				"generate_xsrf_token_value"
+			],
+			[
+				"show_program",
+				"show_program"
+			],
+			[
+				"getLang",
+				"getLang"
+			],
+			[
+				"userpopin",
+				"userPopupInfoHolder"
+			],
+			[
+				"get_content_between_tag",
+				"get_content_between_tag"
+			],
+			[
+				"aja",
+				"ajax_get_message"
+			],
+			[
+				"get_notification_content",
+				"get_notification_content"
+			],
+			[
+				"ajax_get_message",
+				"ajax_get_message"
+			],
+			[
+				"processDa",
+				"processData"
+			],
+			[
+				"echo_response",
+				"echo_response"
+			],
+			[
+				"echojs",
+				"echo_json"
+			],
+			[
+				"echo_json",
+				"echo_json"
+			],
+			[
+				"render_news_feed_favourite_button",
+				"render_news_feed_favourite_button"
+			],
+			[
+				"render_news_feed_event_body",
+				"render_news_feed_event_body"
+			],
+			[
+				"render_profile_field",
+				"render_profile_field"
+			],
+			[
+				"filter_fields",
+				"filter_fields"
+			],
+			[
+				"validate",
+				"validate"
+			],
+			[
+				"get_nested_value",
+				"get_nested_value"
+			],
+			[
+				" render_profile_field",
+				"render_profile_field"
+			],
+			[
+				"add_edr_tag_to_this_p2p_module",
+				"add_edr_tag_to_this_p2p_module"
+			],
+			[
+				"get_filter_join",
+				"get_filter_join"
+			],
+			[
+				"get_manual_override_css_link",
+				"get_manual_override_css_link"
+			],
+			[
+				"setcookie",
+				"setCookie"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"encode html",
+				"encode_html_attr"
+			],
+			[
+				"load_require_js",
+				"load_require_js"
+			],
+			[
+				"create",
+				"create"
+			],
+			[
+				"getmetricp",
+				"get_metric_pk"
+			],
+			[
+				"log_metr",
+				"log_metrics"
+			],
+			[
+				"updateModel",
+				"updateModel"
+			],
+			[
+				"createRule",
+				"createRule"
+			],
+			[
+				"relat",
+				"relativize"
+			],
+			[
+				"rel",
+				"release"
+			],
+			[
+				"floa",
+				"floatLeft"
+			],
+			[
+				"floatl",
+				"floatL"
+			],
+			[
+				"rounded",
+				"rounded"
+			],
+			[
+				"setupd",
+				"setupDialog"
+			],
+			[
+				"reduce",
+				"reduce"
+			],
+			[
+				"getres",
+				"getResource"
+			]
+		],
+		"width": 799.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "/Applications/Sublime Text.app/Contents/MacOS"
+		},
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
