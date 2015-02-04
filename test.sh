@@ -14,20 +14,24 @@ function pfa {
 	# Enter PFA scope to execute command
 	(
 		cd $pfa_directory
-		log=$command
-
-		echo "Commits:"
-		$log | awk '{print "   "$1}'
-
-		echo ""
-
-		echo "Jiras:"
-		$log | awk '{print "   "$2}' | get_jiras
-
-		echo ""
-
-		# echo "Files Changed"
+		$command
 	)
 }
 
-pfa "git log $base_branch...$candidate_branch --oneline"
+log=$(pfa "git log $base_branch...$candidate_branch --oneline") 
+
+echo ""
+echo "$log"
+echo ""
+
+for entry in $log ; do
+	echo $entry;
+done
+
+# echo "Commits:"
+# echo $log | awk '{print "   "$1}'
+
+# echo ""
+
+# echo "Jiras:"
+# echo $log | awk '{print "   "$2}' | get_jiras
