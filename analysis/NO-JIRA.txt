@@ -1,0 +1,70 @@
+0a884decc6e132d497738557fb79b717d6338cf7 NO-JIRA - fixing variable to public access
+bc516178e343f0051a0ec2ee3b060df9a41cd4dd NO-JIRA: Change render implementation on Runtime error handler
+4fe8c61902bae586888c2330173372466a472e4e NO-JIRA: Add DebugBar back into Runtime error handler
+05acc67d4bf1d4bab3c889688a74d10cd1eedd9a NO-JIRA: Revert modified base classes
+3fbf2b1379725bae52dc5614f0751d473bef4db1 NO-JIRA: Update Runtime_error_handler to disallow DebugBar in non testing environments
+dc46b3ff5997e4c8a1506167346322cfa937bcb6 NO-JIRA: Limit DebugBar to testing environment only for errors
+7d85d83c0537a4961d970421b3b8f8ded8c80550 NO-JIRA - Referring to the wrong file after a rename =(
+93405954b310da54522b21ed49f4897b2aafbb32 NO-JIRA - Per Marlow's comments on the code review, remove the config lines that relate to a specific vim plugin that isn't installed in vagrant
+5c79d3df3c3c3b90c456f0d953b4031274cbbd31 NO-JIRA - Fixing errors in vimrc that Marlow pointed out, where the commands were on the same line as the comment. Also changed bashrc to .bash_profile as that is what it is installed at now, so good to be consistent. Updated customization sample to refer to bash_profile instead of bashrc
+8f7afeb25a56179342647a281f4fb9c76aa7ef2e NO-JIRA - undo my ff merge
+368e16c8204039c0e4044bf5e0ebc27e969a2a86 NO-JIRA - Change Vagrant setup so that if you already have an SSH config with the tools repo, then it won't require the service.repo.pem key. In the latest dev environment setup the SSH config will be created for the tor-admin01 with the dev's credentials, so the service.repo.pem is not longer necessary.
+4bfc8a2f5571a915e995ba132e3ba064a5649315 NO-JIRA - Update customization.sh for bash_profile
+8917e1457ad9d6e67a140664b9bb97f03cfd6d37 NO-JIRA - Moving stuff in bashrc to bash_profile.
+4666e1eaf1e0292b81ae6a19120a74e4b08fed41 NO-JIRA - Moving bashrc and vimrc to the codebase instead of in the box. Re-added the alters command, eventually will make it defer to grunt. Fixed sh issues with function names with dashes.
+0e1994d04221d706480ae6e0acf9f55a550336be NO-JIRA - Now that PHPUnit is installed through composer instead of PEAR, there is no phpunit command in the shell. Have to explicitly invoke the phpunit PHP file.
+ee76f8ab784667a87eed02685f867024c960ffb4 NO-JIRA - permissions change on vagrant scripts to 755
+5b38dd0c4fdd380ae3f1f146b139fa9b89d3668f NO-JIRA - Moving a bunch of vagrant stuff into the codebase, lock-step with changes to the vagrant box. Updated to use the latest dev db/platform content (post-bohr)
+aef1bc1372aac523f87cb2a27aa139be22d9311c NO-JIRA: Update composer.json to use Toran Proxy
+7e64f0a46937fd467b3a80ecd50609d5d5bec45c NO-JIRA - add constants to phpunit bootstrap
+38e4b4ef187bea2b01988ff4b480778c37cf961a NO-JIRA: Prevent Debugbar from loading JQuery if Asset management has already
+f4222c962a14d900b1f4924d983cc74055b88212 NO-JIRA - remove reference to guzzle until aws dependencies are sorted out
+9f0c98a5f8a32aa0f3c3de20441b950b35322e28 NO-JIRA - update old version of Guzzle
+93f48d9cc5da55b7018fca4324d0b8a67565fe83 NO-JIRA - remove further files re-introduced by git
+ae954bdcb08834a734bb94c34416faacd3cf8044 NO-JIRA - remove a git-added file
+8d1336ff815fc9e2763995620cf25b4e87ab2569 NO-JIRA - Fixed a typo in a class name.
+5fe5e8e9ed314ae68a52eec7a71db3f94f23e080 NO-JIRA - revise product service query to allow IN clause; include unit test on query generation
+85a8650b6826fa8e731f1aa59044cea46237c1b9 NO-JIRA bug fix some adjust of Order DTO
+05de545b504e21005eebd56cdc7ae81e252189b5 NO-JIRA - remove unused ServerConnection service(s)
+cb0ce175e1e5f9e16a11856d9cb470721205e9c8 NO-JIRA supporting CI plugin also throw more specific exceptions
+336a303a666ae49aa42960368d8161a68b80ae73 NO-JIRA some adjustment for testing
+0299d909199af7fd6d086f8cc35c88f79a44cb67 NO-JIRA - remove a last ET reference in the test api controller
+12a444f5160cc413bcbe03434ace910f44c41125 NO-JIRA - dump engagement technologies placeholders in develop-temp for now
+b319348555dce7302e130e9085a64bf06d167658 NO-JIRA - remove vfsStream
+4283459583975fcda5cc8ee15cbd7da609910b82 NO-JIRA remove debug info
+62ad147fedb82e312d3ec2e4c10b5ec406741005 NO-JIRA typo fix
+96ab5a2f3d7b3ce7d517076ecec649811d8863f1 NO-JIRA adding StringLoc Iterator and Unit Tests
+2af5ebbd9c27483bf27845dfbbf70c4df258b91d NO-JIRA - add in a unit-test-only ability to alter an injectable class' resources after initialization
+e886b9af8af13dbc123bdde753689582dc18aa41 NO-JIRA - add in a conflict resolution that didn't make it in for some reason
+03c8adc33a7a89e88b08a423a6a8c083da3e1851 NO-JIRA - add in singleton factory instance loader
+d1651c4348d32ba57251a9f3cee48c872c46c986 NO-JIRA - aaaaand now we remove the vfsstream
+65caffb53fe1e97c12c8e5d9c9d491505b6d550c NO-JIRA: Update composer.json
+3397229e26dffed1dc8afceb6c846ffb03212578 NO-JIRA Refactoring the toArray code into a cleaner function. Return value no longer depends on the decorator, but on the actual type of object. Created toArray() function in Collection
+6ab8b9bc588665d5b891084b3f62354660f076b6 NO-JIRA: Merge branch 'develop' of ssh://tor-repo01.corp.achievers.com/mnt/opt/git/platform-a into develop
+b2fdd8876aabcb97471867fe72b65e7be392e56f NO-JIRA - add in vfsStream for mocking the file system in unit tests
+c93eed122631c041b0a89b632aa0253031a58f16 NO-JIRA - add in vfsStream for mocking the file system in unit tests
+7511c826a682d7e423328f15402e911a8ba87cfe NO-JIRA Adding documentation for the toArray function
+43ca2e7698431cc50b62b2bb23b145b60a73078d NO-JIRA updating then recursive calls to camelCase
+4ba77b2c5b5c093d308a5a935e7f185a123e5ece NO-JIRA camelCasing function name
+1224f7a9919564a70f660fb2bbc4e98777bbd73b NO-JIRA Added a to_array function in the Base DTO object so that DTOs with DTO properties can be converted to an array
+832b6a5d288963f61558231e418b06336419007a NO-JIRA - Fixed issue with setLangs which was failing to find the default locale in the $langs array since it had not been set yet.
+d2f2e398223a49bbfe293aa891d2095006b74486 NO-JIRA - remove some code brought back in from a merge
+2411efeb88efe26f061b19bdf320c959de2839c5 NO-JIRA - give a specific flysystem version in composer.json
+b94043c86dfa43ccd2be563bb9660feea3c94f6f NO-JIRA - Fixed some typos with the word permission.
+603b9f0e8318732a04e0aa1209c57d83cb2f1d39 NO-JIRA : Updated the spelling of the primitive, from "local" to "locale"
+1b2b4a845be86232d94c29392bac83d6d7e20857 NO-JIRA - Made a quick change to how the permission DTO is created.
+171688868b588cdc24eb3b27739e337e4f8bc925 NO-JIRA resolved merge conflict
+38b50840ab0fcc04e66a238f27df31c6c12b2781 NO-JIRA: Change if check for CORE
+91b8b2adacc87518403a424ae891dcf7312a9f9d NO-JIRA - add file service shell
+8bce2c2fb88506ff6793fdee7637b73582912bfa NO-JIRA: Remove deprecated calls from Messages tab
+4948a410c2e950bd456325d2123b155affb3fa2d NO-JIRA: Allow CORE to have debugbar too!
+734cadb43989b23ab11b407227b022911fc8f0a4 NO-JIRA: Add Visual Event helper to tools
+81fd0ea8584343074c4d4e5efed787b2ab9e46b5 NO-JIRA: Integrate deprecated calls into DebugBar
+c4d279f90bb358b4890e5be5802ca337bed45dc0 NO-JIRA: Remove bad return
+255a5d99d637e93c66eed36ed6c298df2220396e NO-JIRA: Add new collector for counting elements
+505dcbf31e902edf28f3591b1111c564d3a5334f NO-JIRA - add in separate v2 api routes file for tests
+260e9efaf0f88d0058a1e31411d5284971ede6b5 NO-JIRA - remove duplicate Config dto
+cc0ff89ef1940994307916cc4c1723e2752ae389 NO-JIRA - add an empty config DTO
+77af3aeee8d20bf4766ed3ec7eeeb2875b109e6b NO-JIRA - checking in temp new vendor files
+ea03ca4d565892c144ae6c73beac044b80116976 NO-JIRA - create a new test api controller accessible only to testing_env's
+dad6abcd731555a1852fc25c6eef041ef3ccb42b NO-JIRA - create a new test api controller accessible only to testing_env's

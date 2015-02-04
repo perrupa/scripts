@@ -1,0 +1,245 @@
+ffbd53b Merge branch 'master' into develop
+0a884de NO-JIRA - fixing variable to public access
+b49f548 Merge branch 'feature/debugbar_develop' into develop
+bc51617 NO-JIRA: Change render implementation on Runtime error handler
+4fe8c61 NO-JIRA: Add DebugBar back into Runtime error handler
+05acc67 NO-JIRA: Revert modified base classes
+57743f2 Merge branch 'develop' of ssh://tor-repo01/mnt/opt/git/platform-a into develop
+6ed39c1 Merge branch 'develop' of ssh://tor-repo01/mnt/opt/git/platform-a into develop
+66aefec PRODEV-1844 Fixed Bootstrap includes, as there was a "grunt build" failure.
+3fbf2b1 NO-JIRA: Update Runtime_error_handler to disallow DebugBar in non testing environments
+dc46b3f NO-JIRA: Limit DebugBar to testing environment only for errors
+7d85d83 NO-JIRA - Referring to the wrong file after a rename =(
+42e8446 Merge branch 'feature/phpunit' into develop
+9340595 NO-JIRA - Per Marlow's comments on the code review, remove the config lines that relate to a specific vim plugin that isn't installed in vagrant
+829d5e6 PRODEV-1844 Squashed commit of the following:
+5c79d3d NO-JIRA - Fixing errors in vimrc that Marlow pointed out, where the commands were on the same line as the comment. Also changed bashrc to .bash_profile as that is what it is installed at now, so good to be consistent. Updated customization sample to refer to bash_profile instead of bashrc
+8f7afeb NO-JIRA - undo my ff merge
+70cf64b Merge branch 'feature/vagrant-repo-key-changes' into develop
+368e16c NO-JIRA - Change Vagrant setup so that if you already have an SSH config with the tools repo, then it won't require the service.repo.pem key. In the latest dev environment setup the SSH config will be created for the tor-admin01 with the dev's credentials, so the service.repo.pem is not longer necessary.
+988f0a6 PRODEV-1046 - add API endpoints
+a6a05f7 Merge branch 'develop' into feature/native_ios/marketplace
+4bfc8a2 NO-JIRA - Update customization.sh for bash_profile
+8917e14 NO-JIRA - Moving stuff in bashrc to bash_profile.
+4666e1e NO-JIRA - Moving bashrc and vimrc to the codebase instead of in the box. Re-added the alters command, eventually will make it defer to grunt. Fixed sh issues with function names with dashes.
+0e1994d NO-JIRA - Now that PHPUnit is installed through composer instead of PEAR, there is no phpunit command in the shell. Have to explicitly invoke the phpunit PHP file.
+ee76f8a NO-JIRA - permissions change on vagrant scripts to 755
+4d4ea21 Merge branch 'develop' into feature/ZAP-7333
+5b38dd0 NO-JIRA - Moving a bunch of vagrant stuff into the codebase, lock-step with changes to the vagrant box. Updated to use the latest dev db/platform content (post-bohr)
+1125d30 ZAP-7333 - Set hash using window.location.hash (compatible with all browsers) instead of parsing the full URL and setting it. I believe this was a false positive from Burp because the code always gets the URL up to the first hash and then appends the new one, so regardless of what the attacker does it will get the real program URL first (otherwise the URL would not be valid).
+810aa61 PRODEV-1047 - order by price
+31796d4 Merge remote-tracking branch 'origin/master_27' into develop
+2d00101 PRODEV-1324 - code review fixes
+aef1bc1 NO-JIRA: Update composer.json to use Toran Proxy
+73d6608 PRODEV-1324 - account for Locale DTO refactor x2
+ff2b893 PRODEV-1324 - clean up
+431a9bd PRODEV-1324 - use camel case in DTO
+1ef453d PRODEV-1324 - add tests
+fe02459 PRODEV-1324 - add Catalog service
+634a478 PRODEV-1324 - Fix sort order for tag text search
+7a126db PRODEV-1324 - Add search and detail methods
+30f3b3e Merge branch 'develop' into feature/native_ios/marketplace
+14adb89 PRODEV-1324 - update tests
+2074846 PRODEV-1324 - SOA bits
+42f3de2 PRODEV-1324 - update tests
+3094b30 PRODEV-1324 - SOA bits
+954db3d PRODEV-1324 - fix getProductsByTag
+92bdf89 PRODEV-1324 - Refactor for new DTOs
+1ad46d2 TECH-1031 - Test for the existance of the ipfw tool instead of testing the version # of Mac OSX.
+70ce81e PRODEV-1324 - use sphinx and get program products
+455f69f PRODEV-1324 - refactor DTO
+1cec684 PRODEV-1324 - delete stuff that shouldn't be in this branch
+6c46345 PRODEV-1324 - add giftcards endpoint
+7e64f0a NO-JIRA - add constants to phpunit bootstrap
+38e4b4e NO-JIRA: Prevent Debugbar from loading JQuery if Asset management has already
+f4222c9 NO-JIRA - remove reference to guzzle until aws dependencies are sorted out
+9f0c98a NO-JIRA - update old version of Guzzle
+23e7522 Merge branch 'develop' of ssh://tor-repo01/mnt/opt/git/platform-a into develop
+93f48d9 NO-JIRA - remove further files re-introduced by git
+ae954bd NO-JIRA - remove a git-added file
+cfe103a Merge branch 'develop' of ssh://tor-repo01/mnt/opt/git/platform-a into develop
+8d1336f NO-JIRA - Fixed a typo in a class name.
+cbaef1c Merge of dev-temp
+f0587aa Merge remote-tracking branch 'origin/team/tfa/develop-temp' into feature/marketplace/ops_efficiency
+04055e7 PRODEV-966: Create unit tests for OrderProcessor service and Flow
+f81a92d PRODEV-937: Build base Order processor service and flow
+2a6374c PRODEV-647: Create a Base API SOA layer for new vendor integration
+745106f Merge remote-tracking branch 'origin/develop' into team/tfa/develop-temp
+5fe5e8e NO-JIRA - revise product service query to allow IN clause; include unit test on query generation
+af4e7c4 Merge remote-tracking branch 'origin/release/bohr' into develop
+d3f30ce0 Merge branch 'team/tfa/develop-temp' of ssh://tor-repo01/mnt/opt/git/platform-a into team/tfa/develop-temp
+5184710 PRODEV-1134 - add unit test for best buy refresh feed flow
+1a8aeaf Merge branch 'team/tfa/develop-temp' of ssh://tor-repo01/mnt/opt/git/platform-a into team/tfa/develop-temp
+85a8650 NO-JIRA bug fix some adjust of Order DTO
+0465c14 Merge branch 'team/tfa/develop-temp' of ssh://tor-repo01/mnt/opt/git/platform-a into team/tfa/develop-temp
+05de545 NO-JIRA - remove unused ServerConnection service(s)
+639c0e9 Merge branch 'team/tfa/develop-temp' of ssh://tor-repo01/mnt/opt/git/platform-a into team/tfa/develop-temp
+cd86d07 PRODEV-1134 - fix a misspelled namespace
+cb0ce17 NO-JIRA supporting CI plugin also throw more specific exceptions
+6db36d3 PRODEV-1134 - add in unit tests for file service
+b85f459 PRODEV-699 - make file service more mockable
+5ce5ae0 Merge branch 'team/tfa/develop-temp' of ssh://tor-repo01/mnt/opt/git/platform-a into team/tfa/develop-temp
+336a303 NO-JIRA some adjustment for testing
+4cb1fc3 PRODEV-956 - add php-native file streaming to Util\Fs
+0299d90 NO-JIRA - remove a last ET reference in the test api controller
+12a444f NO-JIRA - dump engagement technologies placeholders in develop-temp for now
+b319348 NO-JIRA - remove vfsStream
+4dfbdb1 Merge remote-tracking branch 'origin/team/tfa/develop-temp' into feature/marketplace/soa_product_feed
+ac81c42 Merge remote-tracking branch 'origin/develop' into team/tfa/develop-temp
+838baeb PRODEV-1134 - complete unit test coverage of the BestBuy extended vendor
+4283459 NO-JIRA remove debug info
+bac86e4 PRODEV-1134 - change the getVendorFeedFile unit test to match new method names
+1b46591 PRODEV-699 - generalize the parent vendor\product get feed file
+a34eefa Merge branch 'team/tfa/develop-temp' of ssh://tor-repo01/mnt/opt/git/platform-a into team/tfa/develop-temp
+1d599ef PRODEV-1197 create order model for creating orders
+005bf8f PRODEV-712 create flow
+17074d0 PRODEV-1028 add new order and new lineitem and mock data etc
+066759c PRODEV-1026 shopping list DTO contain order and lineitem DTOs
+62ad147 NO-JIRA typo fix
+5a51c49 PRODEV-1025 orderLineItem DTO
+fc2ab00 PRODEV-1024 created order DTO with orderAddress and user as orderRecipient DTOs
+96ab5a2 NO-JIRA adding StringLoc Iterator and Unit Tests
+5a62598 PRODEV-1134 - create unit test for the getFeedUpdateFromDiffArray function
+2af5ebb NO-JIRA - add in a unit-test-only ability to alter an injectable class' resources after initialization
+47c4549 PRODEV-699 - restructure a couple of functions to make things more unit testable
+b352828 PRODEV-1134 - create unit tests for Service\Product\Vendor\buildDiffFile
+b5d01b1 PRODEV-1134 - add in test for getLatestFeedFile
+7d4bb3c PRODEV-699 - integrate instanceLoader to permit unit test mocking of the filesystem
+41f210e Merge remote-tracking branch 'origin/release/bohr' into develop
+43a726d PRODEV-647: Create a Base API SOA layer for new vendor integration
+87f5899 Merge remote-tracking branch 'origin/team/tfa/develop-temp' into feature/marketplace/ops_efficiency
+ac4ca24 PRODEV-648: Flow - Create a base Order creating Flow
+78c8545 PRODEV-965: Create interface layer for 3rd party PHP http client Guzzle
+412829b PRODEV-965: Create interface layer for 3rd party PHP http client Guzzle
+efded47 PRODEV-937: Build base Order processor service and flow
+0f18cb5 Merge remote-tracking branch 'origin/team/tfa/develop-temp' into feature/marketplace/soa_product_feed
+e886b9a NO-JIRA - add in a conflict resolution that didn't make it in for some reason
+c7dc1c4 Merge remote-tracking branch 'origin/develop' into team/tfa/develop-temp
+f4b2ace PRODEV-699 - convert service functions to use new instanceLoader
+dfbd854 Merge branch 'develop' of ssh://tor-repo01/mnt/opt/git/platform-a into develop
+03c8adc NO-JIRA - add in singleton factory instance loader
+d1651c4 NO-JIRA - aaaaand now we remove the vfsstream
+65caffb NO-JIRA: Update composer.json
+ba9cd7a Merge branch 'develop' of ssh://tor-repo01.corp.achievers.com/mnt/opt/git/platform-a into develop
+451a4fb Merge remote-tracking branch 'origin/release/bohr' into develop
+3397229 NO-JIRA Refactoring the toArray code into a cleaner function. Return value no longer depends on the decorator, but on the actual type of object. Created toArray() function in Collection
+6ab8b9b NO-JIRA: Merge branch 'develop' of ssh://tor-repo01.corp.achievers.com/mnt/opt/git/platform-a into develop
+b2fdd88 NO-JIRA - add in vfsStream for mocking the file system in unit tests
+342abc0 PRODEV-1134 - start building out product feed unit tests
+c93eed1 NO-JIRA - add in vfsStream for mocking the file system in unit tests
+48d6e79 Merge remote-tracking branch 'origin/release/bohr' into develop
+7511c82 NO-JIRA Adding documentation for the toArray function
+6e36364 PRODEV-932 - add in file diff parser
+43ca2e7 NO-JIRA updating then recursive calls to camelCase
+4ba77b2 NO-JIRA camelCasing function name
+1224f7a NO-JIRA Added a to_array function in the Base DTO object so that DTOs with DTO properties can be converted to an array
+5e2fa38 PRODEV-699 - finish feed processing up to the point of diff file generation
+c64e693 PRODEV-699 - continue with import flow
+832b6a5 NO-JIRA - Fixed issue with setLangs which was failing to find the default locale in the $langs array since it had not been set yet.
+3d54d66 PRODEV-699 - finish structure for creating the current product file under SOA
+a35c3e4 Merge remote-tracking branch 'origin/team/tfa/develop-temp' into feature/marketplace/soa_product_feed
+24178f9 Merge remote-tracking branch 'origin/develop' into team/tfa/develop-temp
+437027d Merge branch 'team/tfa/develop-temp' of ssh://tor-repo01/mnt/opt/git/platform-a into team/tfa/develop-temp
+8309bda PRODEV-678 Created DTOs. They are the first version
+d2f2e39 NO-JIRA - remove some code brought back in from a merge
+2411efe NO-JIRA - give a specific flysystem version in composer.json
+b94043c NO-JIRA - Fixed some typos with the word permission.
+53a8837 Merge remote-tracking branch 'origin/develop' into team/tfa/develop-temp
+6c0fb74 Merge branch 'develop' of ssh://tor-repo01/mnt/opt/git/platform-a into develop
+8167e33 Merge branch 'feature/soa_refactor/p2p' into develop
+603b9f0 NO-JIRA : Updated the spelling of the primitive, from "local" to "locale"
+c9d5474 PRODEV-541 Adding a localization array primitive implementation
+7bb1190 Merge branch 'develop' into feature/soa_refactor/p2p
+b4900ab Merge remote-tracking branch 'origin/team/tfa/develop-temp' into feature/marketplace/soa_product_feed
+3f9c87a Merge remote-tracking branch 'origin/develop' into team/tfa/develop-temp
+1b2b4a8 NO-JIRA - Made a quick change to how the permission DTO is created.
+1716888 NO-JIRA resolved merge conflict
+7413853 PRODEV-541 Adding a localization array primitive implementation
+2644307 PRODEV-932 - add new fs to product vendor flow
+38b5084 NO-JIRA: Change if check for CORE
+44bead3 Merge branch 'develop' into feature/debugbar_develop
+068f9d1 Merge remote-tracking branch 'origin/develop' into team/tfa/develop-temp
+95262e7 PRODEV-956 - add in file system utility based on FlySystem (thanks J Cyprian!)
+905275d PRODEV-932 - create shell for looping product staging result query; uses result limit for memory management
+08c2cfa PRODEV-932 - update SFTP to flysystem in SOA and start integrating HRIS-like solution to product feed update
+5b13821 PRODEV-544 Adding product service, model and brand service updates
+dcacb37 Merge branch 'team/tfa/develop-temp' of ssh://tor-repo01/mnt/opt/git/platform-a into team/tfa/develop-temp
+df364e1 PRODEV-541 adding product DTO
+91b8b2a NO-JIRA - add file service shell
+8bce2c2 NO-JIRA: Remove deprecated calls from Messages tab
+4948a41 NO-JIRA: Allow CORE to have debugbar too!
+734cadb NO-JIRA: Add Visual Event helper to tools
+81fd0ea NO-JIRA: Integrate deprecated calls into DebugBar
+c4d279f NO-JIRA: Remove bad return
+255a5d9 NO-JIRA: Add new collector for counting elements
+5623af2 PRODEV-713 - add in a few more unit test shells
+b3c6b7a PRODEV-713 - add getLatestProducts() to product vendor service interface
+3c27a36 PRODEV-713 - complete shell of product vendor update flow
+b275793 Merge branch 'feature/debugbar_integration' into feature/debugbar_bohr
+ce86b41 PRODEV-669 & PRODEV-665 - Refactored Peer to Peer flow code. It currently sets up everything and makes it to point transaction part. Some investigation/testing still needs to be done to make sure that the functionality is equivalent. No "real" controllers are touched so this work doesn't impact anything. This commit is to make sure that I don't lose a ton of WIP.
+6538a8b PRODEV-713 - put in test data to come out of engagement tech flow
+cc26c07 PRODEV-713 - decide to move the vendor inheritance to its service rather than a flow
+b5a5550 PRODEV-700 - add in phpseclib for SFTP service via composer
+3a61a31 PRODEV-713 - move vendors to extend product vendor; create FTP object for engagement tech
+b5471e9 Merge remote-tracking branch 'origin/develop' into team/tfa/develop-temp
+505dcbf NO-JIRA - add in separate v2 api routes file for tests
+12140fb Merge branch 'team/tfa/develop-temp' of ssh://tor-repo01/mnt/opt/git/platform-a into team/tfa/develop-temp
+fb75965 Merge remote-tracking branch 'origin/develop' into team/tfa/develop-temp
+260e9ef NO-JIRA - remove duplicate Config dto
+cf807e4 Merge remote-tracking branch 'origin/develop' into feature/soa_refactor/budgets
+6fca7f5 Merge branch 'team/tfa/develop-temp' of ssh://tor-repo01/mnt/opt/git/platform-a into team/tfa/develop-temp
+c0f7694 PRODEV-648 Created base creating order flow, with some method that would be use in the future.
+739a387 PRODEV-713 - start building out guts of first vendor product feed SOA version
+dfff41f PRODEV-713 - add in sample flow for ET vendor product update
+262f99b PRODEV-713 - add in base ET flow and shell of refresh Feed unit test
+406f0c1 Merge remote-tracking branch 'origin/develop' into team/tfa/develop-temp
+f0abfd0 PRODEV-713 - replace extended vendor service with flows
+cc0ff89 NO-JIRA - add an empty config DTO
+77af3ae NO-JIRA - checking in temp new vendor files
+dccbe3f PRODEV-713 - whoop forgot to extend vendor\product interface
+ad5ac07 Merge remote-tracking branch 'origin/team/tfa/develop-temp' into feature/soa_refactor/budgets
+ea03ca4 NO-JIRA - create a new test api controller accessible only to testing_env's
+dad6abc NO-JIRA - create a new test api controller accessible only to testing_env's
+d327273 PRODEV-581 - add in limited and budget service shells
+f6ebed8 PRODEV-581 - create base budget configuration DTO, fix a couple of NS issues in limited and unlimited account dots
+4354360 feature/debugbar: Fixed an issue with unloaded helper not providing _anvl in time.
+4f98ff3 feature/debugbar: Moved debugbar under PFA namespace.
+8e0ac89 feature/debugbar: Updated toolbar to include deprecated call messages.
+6846849 NO-JIRA: feature/debugbar Remove all references of debug_control_footer in all config files
+9c7015f NO-JIRA: feature/debugbar Remove Debug Controls footer
+76bdc41 NO-JIRA: feature/debugbar Move configuration into json document
+5fe6143 NO-JIRA: feature/debugbar Add language side-by-side
+b77cfc0 NO-JIRA feature/debugbar Add show lang keys in prep to remove QA lang test bar
+dc3fd62 NO-JIRA: feature/debugbar Add clear cookie button
+602822f NO-JIRA: feature/debugbar Expose Closure measurement
+a044d07 NO-JIRA: feature/debugbar Set cookie as `false` and allow use_fingerprint toggle
+99b2585 NO-JIRA: feature/debugbar Remove `welcome` message
+31d60e3 NO-JIRA: feature/debugbar Change timeline border
+7f5ff3e NO-JIRA: feature/debugbar Change event listener
+8c2e490 NO-JIRA: feature/debugbar Add `use_fingerprint` tool
+0e09d73 NO-JIRA: feature/debugbar Change icons and allow user to set their own
+c916cf2 feature/debugbar: Added count for the queries tab in the queries badge
+0d3d8fc NO-JIRA: feature/debugbar Change highlight to format
+dd81801 NO-JIRA: feature/debugbar Add new collector for our query tab and massage data
+36459fc NO-JIRA: feature/debugbar Add new collector and formatter for our SQL tab
+2da489c NO-JIRA: feature/debugbar Add styles for widget and new js for sql
+f348a0a feature/debugbar: Reordered parameters for DebugBar and added DebugBar to Oopsie/Bad URL pages.
+91c4beb feature/debugbar: Added SQL formatter dependency
+6f08305 NO-JIRA: feature/debugbar Change styles and add default message for good effect
+c54fc8f NO-JIRA: feature/debugbar Update widget/debugbar styles
+480c1ce NO-JIRA: feature/debugbar Clean up and change some formatting
+c8ebb9c NO-JIRA: feature/debugbar Update tab names and use new collectors
+3cbbd48 NO-JIRA: feature/debugbar Add new widget type
+f6a1d4c NO-JIRA: feature/debugbar Add custom collector and formatter
+e01ff03 NO-JIRA: feature/debugbar style updates
+0218309 feature/debugbar: Added metrics data to timebar
+4cc2912 feature/debugbar: Add session information
+3f8473de feature/debugbar: Cleaned up tab names and removed unused memory tab
+2ac8156 feature/debugbar: Update cookie settings to work - yay!
+1695bb7 feature/debugbar: Added error messages to debug bar's messages tab.
+391fefe feature/debugbar: Add settings widget
+8afd40c feature/debugbar: Switched erorr bar to config data collector
+76e3d71 feature/debugbar: Added config toolbar data collector support
+9972365 feature/debugbar: minor cleanup of the debug bar presentation
+67b5597 feature/debugbar: Add resource folder for custom styles
+67e3eaa feature/debugbar: Initial commit of new debug bar

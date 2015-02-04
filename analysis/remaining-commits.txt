@@ -1,0 +1,82 @@
+66aefecd1936edeb50f002ba0616c3d4d7aed947 PRODEV-1844 Fixed Bootstrap includes, as there was a "grunt build" failure.
+829d5e6b0b567813db7393509660b5e6082200a2 PRODEV-1844 Squashed commit of the following:
+988f0a6fc46b78612710b736680c102a8865b871 PRODEV-1046 - add API endpoints
+1125d307c044241c539713575637502b7f03c19a ZAP-7333 - Set hash using window.location.hash (compatible with all browsers) instead of parsing the full URL and setting it. I believe this was a false positive from Burp because the code always gets the URL up to the first hash and then appends the new one, so regardless of what the attacker does it will get the real program URL first (otherwise the URL would not be valid).
+810aa61a12f7943d277795503e28fb72d2733111 PRODEV-1047 - order by price
+2d0010167be841eb24d603adf44b84be2e6077a2 PRODEV-1324 - code review fixes
+73d6608dde4dd8f509cf466121e420777def17fb PRODEV-1324 - account for Locale DTO refactor x2
+ff2b89393bc318b6bfbfaa2123dfee5dfcfe0f8a PRODEV-1324 - clean up
+431a9bd7358a5e130c2bb7c8ea5ef09ccec7e207 PRODEV-1324 - use camel case in DTO
+1ef453d954e21bf72f863ca3943c2b78e950132b PRODEV-1324 - add tests
+fe02459dbccdfb1545d47e6ce055c8ff21ea349a PRODEV-1324 - add Catalog service
+634a478f87386578325a0a46044f2548642d55f9 PRODEV-1324 - Fix sort order for tag text search
+7a126db1d0e6fb7384ad65e142c8edd481d1ce93 PRODEV-1324 - Add search and detail methods
+14adb89f31046e4b31fa2660613717d786322e42 PRODEV-1324 - update tests
+2074846d456b66e1b057f6a2044e927b45cae85f PRODEV-1324 - SOA bits
+42f3de2e43bcec73fdabaeb702d6dda4511ea978 PRODEV-1324 - update tests
+3094b307cae11e15ee5030b0ed2d26777ad73258 PRODEV-1324 - SOA bits
+954db3de13f17e6ea100030867e4b43ce9b0b990 PRODEV-1324 - fix getProductsByTag
+92bdf8941b14426069625572b2e749f65d9fce66 PRODEV-1324 - Refactor for new DTOs
+1ad46d227f2178ddd3061d89a6834b00676e026a TECH-1031 - Test for the existance of the ipfw tool instead of testing the version # of Mac OSX.
+70ce81ea749348907036b77116ef11fae88e05c5 PRODEV-1324 - use sphinx and get program products
+455f69f46507f88f94f0f531cf8303fa9353e9b1 PRODEV-1324 - refactor DTO
+1cec6840595859e21adcc6b8fa26f36f4d87b1a2 PRODEV-1324 - delete stuff that shouldn't be in this branch
+6c463451082d7607e993d8281bf36081cf2da819 PRODEV-1324 - add giftcards endpoint
+04055e72264d95c89f5f24295976650cff20b043 PRODEV-966: Create unit tests for OrderProcessor service and Flow
+f81a92d5561e9f85edf9938865c0a68bb7469330 PRODEV-937: Build base Order processor service and flow
+2a6374cbc482f0c77cd5caf5d297bf97bdaecf7c PRODEV-647: Create a Base API SOA layer for new vendor integration
+5184710efffead67d41e0a463969dafc7bae22bb PRODEV-1134 - add unit test for best buy refresh feed flow
+cd86d07cddcb4c50e3cc75330b170f13fbad5a3a PRODEV-1134 - fix a misspelled namespace
+6db36d3b17cc8de118f8d1c0814bbe32fc8f42f1 PRODEV-1134 - add in unit tests for file service
+b85f4594241fd394aef1189bbb6a4238c345b4f7 PRODEV-699 - make file service more mockable
+4cb1fc3681e4ac5f5fe2f42235e21f5354c32eaf PRODEV-956 - add php-native file streaming to Util\Fs
+838baeb7e2583f04ad00d027c3cd7a200817b7cf PRODEV-1134 - complete unit test coverage of the BestBuy extended vendor
+bac86e48a0a4337893ed9a05e00fb8987ea54336 PRODEV-1134 - change the getVendorFeedFile unit test to match new method names
+1b46591910f16f11bc66bebe1dea857d81ebbdd4 PRODEV-699 - generalize the parent vendor\product get feed file
+1d599efd69c8f940dd54e6dfe792b9347c17b9ae PRODEV-1197 create order model for creating orders
+005bf8f92fd86f24d2be62500a4f6314000549f9 PRODEV-712 create flow
+17074d0a79edf9a93dd0a429e6b026a998facb98 PRODEV-1028 add new order and new lineitem and mock data etc
+066759cb1a6840b003715e4d8afa0a208d947200 PRODEV-1026 shopping list DTO contain order and lineitem DTOs
+5a51c49534c2ee82505068b5590c268982d949a1 PRODEV-1025 orderLineItem DTO
+fc2ab00085ef8fffd8aa96d9234cfd95cbaf93b3 PRODEV-1024 created order DTO with orderAddress and user as orderRecipient DTOs
+5a6259859b89eb99e19a95e802e5122b81f824f0 PRODEV-1134 - create unit test for the getFeedUpdateFromDiffArray function
+47c454901655ebc1b73f66821b8016293c3e3b48 PRODEV-699 - restructure a couple of functions to make things more unit testable
+b352828c97c7a4c0867361689f4f7d4b11b54152 PRODEV-1134 - create unit tests for Service\Product\Vendor\buildDiffFile
+b5d01b13641b8b5ed329cf61e8ef750026555713 PRODEV-1134 - add in test for getLatestFeedFile
+7d4bb3c12e1bfd69caa14bb38c143a4829250b53 PRODEV-699 - integrate instanceLoader to permit unit test mocking of the filesystem
+43a726d89823f4c61d7d9b07a00d059bb4092956 PRODEV-647: Create a Base API SOA layer for new vendor integration
+ac4ca24a1b72e31996d6c97d1d329fb81411510d PRODEV-648: Flow - Create a base Order creating Flow
+78c85455b4ff20ff2888b1e951cbacba237aaaa6 PRODEV-965: Create interface layer for 3rd party PHP http client Guzzle
+412829b7fe4936740bacd0c5991df5509b4befe3 PRODEV-965: Create interface layer for 3rd party PHP http client Guzzle
+efded4757b36a203706c33842506cca0f817668c PRODEV-937: Build base Order processor service and flow
+f4b2aceb2d642a41a7b8fe2e932ddb54059e9be9 PRODEV-699 - convert service functions to use new instanceLoader
+342abc03b46c02ebfede21078d5160c167c48d6f PRODEV-1134 - start building out product feed unit tests
+6e36364f9ba236edb50030a7fc492bce3ff5cea4 PRODEV-932 - add in file diff parser
+5e2fa3817465639d3cb9828847829add2844a08f PRODEV-699 - finish feed processing up to the point of diff file generation
+c64e6930637157b618ec354732998691e8164751 PRODEV-699 - continue with import flow
+3d54d6643ce9b84224f149aae459eb1f84afb469 PRODEV-699 - finish structure for creating the current product file under SOA
+8309bda5de626541494dc4fcb333ab7aa36ba3d6 PRODEV-678 Created DTOs. They are the first version
+c9d5474a744094c83a261a91b97e6f2aa0091126 PRODEV-541 Adding a localization array primitive implementation
+7413853d73d925d483c9d996054c9f8c405c21b0 PRODEV-541 Adding a localization array primitive implementation
+26443070d883567390aa9e66954fd5d5751094cf PRODEV-932 - add new fs to product vendor flow
+95262e7dbd25ffd42a39685ed2bff047c488e76e PRODEV-956 - add in file system utility based on FlySystem (thanks J Cyprian!)
+905275d841d5481f0dd79335b30d371ab6c15d86 PRODEV-932 - create shell for looping product staging result query; uses result limit for memory management
+08c2cfa6a4b2cf24fe0417ec8b60f1e52907edae PRODEV-932 - update SFTP to flysystem in SOA and start integrating HRIS-like solution to product feed update
+5b13821d0a1419bff15fc69d5ab5f0e276a1d8ec PRODEV-544 Adding product service, model and brand service updates
+df364e10cdd48c1e5be9526efa900a9aa81d0286 PRODEV-541 adding product DTO
+5623af279093712b8fe5a81d64a563cdd94b0378 PRODEV-713 - add in a few more unit test shells
+b3c6b7a984d8fc165327d07fa0b75c9e7f2cd954 PRODEV-713 - add getLatestProducts() to product vendor service interface
+3c27a36b0d5b4901b4331e57840095d160a719b7 PRODEV-713 - complete shell of product vendor update flow
+ce86b41bd45b8c3f10d9e969dac7386f38eee0e3 PRODEV-669 & PRODEV-665 - Refactored Peer to Peer flow code. It currently sets up everything and makes it to point transaction part. Some investigation/testing still needs to be done to make sure that the functionality is equivalent. No "real" controllers are touched so this work doesn't impact anything. This commit is to make sure that I don't lose a ton of WIP.
+6538a8b65ca883faaaafaa5544b29cc134e36bb1 PRODEV-713 - put in test data to come out of engagement tech flow
+cc26c07b134871826545841723015221dbdc31b8 PRODEV-713 - decide to move the vendor inheritance to its service rather than a flow
+b5a55506b92ccbb05aa778531fc2dbedf2f934a2 PRODEV-700 - add in phpseclib for SFTP service via composer
+3a61a31b9a1e2e92f50279d133bea5dad0a8cc38 PRODEV-713 - move vendors to extend product vendor; create FTP object for engagement tech
+c0f76941c84928e33a71ece5a88c21078d96c316 PRODEV-648 Created base creating order flow, with some method that would be use in the future.
+739a387d0f50d81f0732c6e53efe8777f426071f PRODEV-713 - start building out guts of first vendor product feed SOA version
+dfff41f165634cdcbdf83e9cca94532f63a4df90 PRODEV-713 - add in sample flow for ET vendor product update
+262f99b0badd969bd1c8dda250baf7d631729514 PRODEV-713 - add in base ET flow and shell of refresh Feed unit test
+f0abfd08d7e1375d1bfeb7c3d3daea0d95ebcffc PRODEV-713 - replace extended vendor service with flows
+dccbe3f2955b4f2b8a2863c17d31be271a40d222 PRODEV-713 - whoop forgot to extend vendor\product interface
+d3272739d4715dc222d736dae224c04454ae89fb PRODEV-581 - add in limited and budget service shells
+f6ebed8c26febc60fa2388c890eab79378a3313c PRODEV-581 - create base budget configuration DTO, fix a couple of NS issues in limited and unlimited account dots

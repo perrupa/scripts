@@ -1,0 +1,44 @@
+b49f5486c5e43fdbca58f051d208442247bb8851 Merge branch 'feature/debugbar_develop' into develop
+44bead3d032728ac9361ac025a215e781b9eacf2 Merge branch 'develop' into feature/debugbar_develop
+b2757935b053b7fb6b66eb2383c3567f61246c66 Merge branch 'feature/debugbar_integration' into feature/debugbar_bohr
+4354360035be709a4f11ecbe746de2525a75320e feature/debugbar: Fixed an issue with unloaded helper not providing _anvl in time.
+4f98ff3f5a2642747fc81103189173d31cbb6fea feature/debugbar: Moved debugbar under PFA namespace.
+8e0ac89dfb5d3bff013ba8a32c7da3a84270f64d feature/debugbar: Updated toolbar to include deprecated call messages.
+684684937abcc76f6ae78725d127a033c28fa3fa NO-JIRA: feature/debugbar Remove all references of debug_control_footer in all config files
+9c7015fc6fd0031af57c238bb09936005eccf2f4 NO-JIRA: feature/debugbar Remove Debug Controls footer
+76bdc41721c583e600f324436fa81595dcb570ac NO-JIRA: feature/debugbar Move configuration into json document
+5fe61432ed4794a0d696b232abba457e4a3bceeb NO-JIRA: feature/debugbar Add language side-by-side
+b77cfc0371c1323d8c2ee35e1c17118d0dcf1e0e NO-JIRA feature/debugbar Add show lang keys in prep to remove QA lang test bar
+dc3fd62002b4ea507ffc04f6bae511bf1fd998c7 NO-JIRA: feature/debugbar Add clear cookie button
+602822fe7c5055584dc44f260bf2be47a06df838 NO-JIRA: feature/debugbar Expose Closure measurement
+a044d0736a9ffe77a799db832c45dfc121aee350 NO-JIRA: feature/debugbar Set cookie as `false` and allow use_fingerprint toggle
+99b25855cbdcbcaa0ad7993b12f8a9a88fb31d26 NO-JIRA: feature/debugbar Remove `welcome` message
+31d60e351d2954100dc6aa25d6345bdb3ebc2811 NO-JIRA: feature/debugbar Change timeline border
+7f5ff3e47c4287bb5c8cff82b27b7e4395d42689 NO-JIRA: feature/debugbar Change event listener
+8c2e490a6a920014bc86cb470f0311ae46d24ae6 NO-JIRA: feature/debugbar Add `use_fingerprint` tool
+0e09d73d61f62deff676969da6601aa860860fe0 NO-JIRA: feature/debugbar Change icons and allow user to set their own
+c916cf23a4477a5406a3b882f30117af4a548c5d feature/debugbar: Added count for the queries tab in the queries badge
+0d3d8fcca068be11046919a3f17edbd8d31088c7 NO-JIRA: feature/debugbar Change highlight to format
+dd81801206eacc1d8d82bc82103766445ae93111 NO-JIRA: feature/debugbar Add new collector for our query tab and massage data
+36459fc35f53fbc6003b4f1f72a216b3d6ccedbf NO-JIRA: feature/debugbar Add new collector and formatter for our SQL tab
+2da489c6011eeb13dcf7c571a5688b2ed5e5aa10 NO-JIRA: feature/debugbar Add styles for widget and new js for sql
+f348a0a1291a490a16743488b30b587dde8ad236 feature/debugbar: Reordered parameters for DebugBar and added DebugBar to Oopsie/Bad URL pages.
+91c4beb5de2062a0c5d488d8d3c871a24056b3b0 feature/debugbar: Added SQL formatter dependency
+6f08305f308609ee8c907f9aa38df2fb2a412a80 NO-JIRA: feature/debugbar Change styles and add default message for good effect
+c54fc8f06c9972a273ee15b2e7e63bf2338184b0 NO-JIRA: feature/debugbar Update widget/debugbar styles
+480c1ce5da1b790a5cb968b55a1d1dbc2d5f626e NO-JIRA: feature/debugbar Clean up and change some formatting
+c8ebb9c0609eb8554259d4ceae876cb45dbf8019 NO-JIRA: feature/debugbar Update tab names and use new collectors
+3cbbd489d1089d7ec0937420debfc2af51de9009 NO-JIRA: feature/debugbar Add new widget type
+f6a1d4c0d94b0d338a5acb18fdfb2ed8957cc0db NO-JIRA: feature/debugbar Add custom collector and formatter
+e01ff03f461c634226fd6598ab53172215f118d5 NO-JIRA: feature/debugbar style updates
+0218309086b411cdb2ac244ac59f766929c1584f feature/debugbar: Added metrics data to timebar
+4cc2912f097a462be845cadea123a13be8a3d291 feature/debugbar: Add session information
+3f8473dee64c7178a79f9cf4ebcf27d52395391c feature/debugbar: Cleaned up tab names and removed unused memory tab
+2ac81564b9aea0147898020af3974a051ddd9be8 feature/debugbar: Update cookie settings to work - yay!
+1695bb7ebc44c68e4cad8b8700c20cae2b0a3d3f feature/debugbar: Added error messages to debug bar's messages tab.
+391fefebbfb1108e3fc5128d93eb2891b72de7e1 feature/debugbar: Add settings widget
+8afd40ca375fe36c6ba148f662b75b7101b8211f feature/debugbar: Switched erorr bar to config data collector
+76e3d71c7e740ebac2a44d62eba0bf998f0a1b5b feature/debugbar: Added config toolbar data collector support
+99723658d56d9c766a153da7f9d13cc4deedea96 feature/debugbar: minor cleanup of the debug bar presentation
+67b559747c121a39b5639bcbabd3bc2a55346a3a feature/debugbar: Add resource folder for custom styles
+67e3eaa9bcd0d9700d253b6534003e9f86ecb6de feature/debugbar: Initial commit of new debug bar
