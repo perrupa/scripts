@@ -20,18 +20,13 @@ function pfa {
 
 log=$(pfa "git log $base_branch...$candidate_branch --oneline") 
 
+
+echo "Commits:"
+printf %s "$log" | 
+	awk '{print "   "$1}'
+
 echo ""
-echo "$log"
-echo ""
 
-for entry in $log ; do
-	echo $entry;
-done
-
-# echo "Commits:"
-# echo $log | awk '{print "   "$1}'
-
-# echo ""
-
-# echo "Jiras:"
-# echo $log | awk '{print "   "$2}' | get_jiras
+echo "Jiras:"
+printf %s "$log" | 
+	awk '{print "   "$2}' | get_jiras
